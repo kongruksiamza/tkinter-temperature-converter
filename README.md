@@ -1,1 +1,1 @@
-# tkinter-temperature-converter
+# โปรแกรมแปลงอุณหภูมิ
